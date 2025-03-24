@@ -62,4 +62,9 @@
       )
     )
   )
+  (model "${KIPRJMOD}/lib/lilygo-sim/SIM7000G.step"
+    (offset (xyz -1.7 -26.9 -4.2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
